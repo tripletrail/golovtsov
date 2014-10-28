@@ -41,6 +41,7 @@
 .project 
 .settings 
 /drupal-7.31/backup 
+/drupal-7.31/sites/default/settings.php
 /drupal-7.31/sites/default/files/css 
 /drupal-7.31/sites/default/files/js /sites/default/files/xmlsitemap 
 /drupal-7.31/tmp
